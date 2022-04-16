@@ -1,7 +1,7 @@
 main(){
   teste();
  # ok
- 'tresre mano';   
+ 'trefgggsre mano';   
 
 f
   hhhjj
