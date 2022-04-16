@@ -3,7 +3,7 @@ main(){
  # ok
  'trefgggsre mano';   
 
-f
+fcff
   hhhjj
   
   ddff
