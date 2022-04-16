@@ -3,10 +3,10 @@ main(){
  # ok
  'trefgggsre mano';   
 
-fcffddddd
+fcffdddddddddddd
   hhhjj
   'masddd'
   
-  dff
+  dffdddd
   ddff
   }
