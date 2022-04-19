@@ -1,6 +1,7 @@
 main(){
   teste();
  # ok
- 'trefgggsre mano';   jjjjjjjj
+ 'trefgggsre mano';  
+  jjjjjjjjd
 =
   }
