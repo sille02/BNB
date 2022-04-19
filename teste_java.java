@@ -4,10 +4,5 @@ main(){
  'trefgggsre mano';   jjjjjjjj
 
 fcffdddddddddddd
-  hhhjj
-  'masddd'
-  dd
-  dffdddd
-  ddff
-   dd
+
   }
